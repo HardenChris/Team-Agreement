@@ -57,7 +57,3 @@ Team 1 agreement - Chris Harden, Min Xie, Jared Barnes, Jordan Fleming
     1. personal-branch -> staging -> Main 
 
 * For any merge into Main, all four of us will be present. Any merges from our personal branches to the Staging branch is free reign. Once in staging we are saying that the code we pushed is good and there is no issues we have found ourselves, and we have confidence with the code. Code listed in staging will be open to review by any team member at any time. Staged code can and will be reviewed and commented on before it is pushed to Main. Once we are all confident all parts work together in staging the changes can be pushed to main.
-
-*
-*
-*
